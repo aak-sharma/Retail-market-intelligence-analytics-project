@@ -1,0 +1,151 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,ORD-10117,06/28/2023,06/29/2023,Standard Class,CUST-124,Customer 27,Corporate,United States,Miami,Florida,75746,South,PROD-140,Office Supplies,Storage,Storage item 11,695.34,7,0.4,-23.07
+2,ORD-10087,07/21/2023,07/23/2023,Second Class,CUST-134,Customer 08,Home Office,United States,Boston,Massachusetts,93725,East,PROD-108,Furniture,Chairs,Chairs item 5,157.05,7,0.4,-23.53
+3,ORD-10002,09/06/2024,09/10/2024,Second Class,CUST-136,Customer 04,Home Office,United States,Phoenix,Arizona,56483,West,PROD-106,Office Supplies,Envelopes,Envelopes item 8,148.91,6,0.2,9.15
+4,ORD-10034,07/24/2024,07/25/2024,Second Class,CUST-112,Customer 39,Home Office,United States,Seattle,Washington,79878,West,PROD-170,Furniture,Bookcases,Bookcases item 3,212.11,5,0.05,32.98
+5,ORD-10001,12/07/2023,12/08/2023,Second Class,CUST-101,Customer 30,Home Office,United States,Dallas,Texas,45717,Central,PROD-160,Office Supplies,Paper,Paper item 11,107.35,1,0.3,3.29
+6,ORD-10062,05/11/2024,05/17/2024,First Class,CUST-125,Customer 12,Consumer,United States,Philadelphia,Pennsylvania,42953,East,PROD-119,Office Supplies,Binders,Binders item 11,43.08,2,0.3,1.82
+7,ORD-10088,11/20/2023,11/23/2023,Second Class,CUST-142,Customer 26,Corporate,United States,New York City,New York,19832,East,PROD-169,Technology,Copiers,Copiers item 2,734.44,4,0.0,82.47
+8,ORD-10050,06/17/2023,06/21/2023,Standard Class,CUST-135,Customer 27,Home Office,United States,Boston,Massachusetts,92157,East,PROD-156,Office Supplies,Labels,Labels item 2,726.2,8,0.0,163.38
+9,ORD-10072,07/13/2023,07/18/2023,Second Class,CUST-103,Customer 22,Home Office,United States,New York City,New York,32165,East,PROD-171,Office Supplies,Storage,Storage item 4,873.54,6,0.3,-137.29
+10,ORD-10001,03/20/2024,03/22/2024,First Class,CUST-145,Customer 36,Consumer,United States,Chicago,Illinois,68901,Central,PROD-159,Furniture,Tables,Tables item 8,336.08,3,0.3,-13.01
+11,ORD-10096,09/27/2023,09/30/2023,Standard Class,CUST-103,Customer 18,Consumer,United States,Miami,Florida,77846,South,PROD-101,Furniture,Tables,Tables item 1,186.04,2,0.0,45.63
+12,ORD-10003,07/28/2023,08/01/2023,First Class,CUST-114,Customer 42,Consumer,United States,Charlotte,North Carolina,62426,South,PROD-115,Office Supplies,Labels,Labels item 7,893.95,1,0.0,210.62
+13,ORD-10053,10/03/2023,10/07/2023,Standard Class,CUST-133,Customer 22,Consumer,United States,Los Angeles,California,14394,West,PROD-180,Technology,Copiers,Copiers item 12,337.29,5,0.3,-29.87
+14,ORD-10056,05/11/2023,05/12/2023,Second Class,CUST-115,Customer 05,Home Office,United States,Dallas,Texas,65113,Central,PROD-139,Furniture,Tables,Tables item 11,496.08,4,0.05,110.2
+15,ORD-10055,05/31/2024,06/04/2024,First Class,CUST-124,Customer 34,Home Office,United States,Miami,Florida,30204,South,PROD-171,Furniture,Chairs,Chairs item 3,886.42,3,0.3,-51.54
+16,ORD-10030,03/09/2023,03/13/2023,First Class,CUST-120,Customer 35,Corporate,United States,Dallas,Texas,75777,Central,PROD-116,Office Supplies,Art,Art item 5,564.64,4,0.05,133.42
+17,ORD-10011,01/17/2024,01/22/2024,Second Class,CUST-115,Customer 11,Consumer,United States,Miami,Florida,48886,South,PROD-109,Technology,Accessories,Accessories item 5,31.14,6,0.0,4.58
+18,ORD-10018,09/30/2023,10/04/2023,Standard Class,CUST-141,Customer 41,Corporate,United States,Miami,Florida,41081,South,PROD-127,Furniture,Chairs,Chairs item 4,294.77,6,0.1,57.8
+19,ORD-10004,11/12/2023,11/17/2023,First Class,CUST-103,Customer 23,Home Office,United States,Miami,Florida,95198,South,PROD-162,Office Supplies,Binders,Binders item 7,378.88,7,0.4,-41.23
+20,ORD-10094,06/16/2023,06/22/2023,Standard Class,CUST-114,Customer 41,Corporate,United States,Omaha,Nebraska,19351,Central,PROD-158,Office Supplies,Art,Art item 11,682.98,4,0.05,50.81
+21,ORD-10030,08/21/2024,08/25/2024,Second Class,CUST-114,Customer 44,Corporate,United States,Omaha,Nebraska,59603,Central,PROD-162,Technology,Accessories,Accessories item 6,448.66,4,0.2,68.7
+22,ORD-10061,05/19/2024,05/20/2024,Standard Class,CUST-131,Customer 02,Corporate,United States,Dallas,Texas,71887,Central,PROD-116,Furniture,Chairs,Chairs item 4,35.15,3,0.0,5.67
+23,ORD-10082,10/26/2023,10/29/2023,First Class,CUST-119,Customer 42,Corporate,United States,Chicago,Illinois,77812,Central,PROD-133,Furniture,Bookcases,Bookcases item 10,410.97,1,0.0,106.77
+24,ORD-10078,07/01/2024,07/04/2024,Second Class,CUST-113,Customer 33,Consumer,United States,Phoenix,Arizona,15708,West,PROD-147,Technology,Copiers,Copiers item 6,560.34,8,0.0,123.73
+25,ORD-10108,08/13/2023,08/17/2023,Standard Class,CUST-139,Customer 36,Consumer,United States,Miami,Florida,15358,South,PROD-150,Office Supplies,Storage,Storage item 2,31.85,8,0.0,4.77
+26,ORD-10098,02/18/2023,02/19/2023,Standard Class,CUST-130,Customer 15,Corporate,United States,Boston,Massachusetts,94420,East,PROD-138,Furniture,Furnishings,Furnishings item 5,618.57,6,0.1,6.82
+27,ORD-10041,01/04/2023,01/10/2023,Second Class,CUST-103,Customer 32,Consumer,United States,Seattle,Washington,80019,West,PROD-159,Furniture,Furnishings,Furnishings item 5,580.03,2,0.0,148.02
+28,ORD-10086,11/27/2024,11/29/2024,Second Class,CUST-126,Customer 06,Consumer,United States,New York City,New York,59950,East,PROD-107,Technology,Copiers,Copiers item 8,59.14,7,0.05,11.96
+29,ORD-10094,09/02/2023,09/04/2023,Second Class,CUST-114,Customer 43,Corporate,United States,Charlotte,North Carolina,71721,South,PROD-140,Office Supplies,Labels,Labels item 4,517.42,2,0.4,-14.23
+30,ORD-10015,03/26/2024,03/28/2024,Standard Class,CUST-116,Customer 04,Corporate,United States,Boston,Massachusetts,57413,East,PROD-154,Office Supplies,Paper,Paper item 7,406.27,1,0.2,41.29
+31,ORD-10045,12/18/2024,12/23/2024,First Class,CUST-142,Customer 21,Home Office,United States,Los Angeles,California,41286,West,PROD-134,Technology,Copiers,Copiers item 10,542.89,8,0.4,-64.76
+32,ORD-10000,05/21/2023,05/22/2023,Standard Class,CUST-124,Customer 25,Home Office,United States,Atlanta,Georgia,62286,South,PROD-112,Furniture,Bookcases,Bookcases item 5,422.29,4,0.05,75.37
+33,ORD-10054,09/13/2024,09/19/2024,Second Class,CUST-116,Customer 29,Corporate,United States,New York City,New York,21745,East,PROD-122,Technology,Phones,Phones item 2,846.96,4,0.2,11.06
+34,ORD-10065,09/23/2023,09/27/2023,Standard Class,CUST-128,Customer 18,Home Office,United States,Atlanta,Georgia,31199,South,PROD-165,Office Supplies,Binders,Binders item 4,477.79,4,0.3,-30.04
+35,ORD-10020,02/11/2023,02/16/2023,First Class,CUST-139,Customer 01,Corporate,United States,Los Angeles,California,14243,West,PROD-158,Office Supplies,Binders,Binders item 7,189.59,7,0.1,10.93
+36,ORD-10021,08/18/2024,08/21/2024,First Class,CUST-124,Customer 42,Consumer,United States,Omaha,Nebraska,30393,Central,PROD-136,Technology,Machines,Machines item 3,800.1,6,0.0,68.25
+37,ORD-10094,05/15/2024,05/21/2024,First Class,CUST-126,Customer 14,Consumer,United States,Boston,Massachusetts,84298,East,PROD-176,Office Supplies,Storage,Storage item 7,229.38,5,0.2,36.74
+38,ORD-10041,03/05/2023,03/06/2023,Standard Class,CUST-119,Customer 07,Consumer,United States,Charlotte,North Carolina,57509,South,PROD-175,Office Supplies,Envelopes,Envelopes item 2,642.54,4,0.3,56.25
+39,ORD-10060,09/04/2024,09/06/2024,First Class,CUST-114,Customer 27,Consumer,United States,Seattle,Washington,41250,West,PROD-170,Furniture,Furnishings,Furnishings item 4,440.74,2,0.05,88.21
+40,ORD-10084,10/08/2023,10/11/2023,Second Class,CUST-117,Customer 05,Home Office,United States,Charlotte,North Carolina,72189,South,PROD-133,Furniture,Furnishings,Furnishings item 8,542.22,7,0.3,-43.02
+41,ORD-10036,11/22/2024,11/23/2024,First Class,CUST-140,Customer 41,Corporate,United States,Phoenix,Arizona,43795,West,PROD-165,Furniture,Furnishings,Furnishings item 6,318.99,5,0.05,60.06
+42,ORD-10120,05/23/2024,05/29/2024,Second Class,CUST-139,Customer 15,Home Office,United States,New York City,New York,94429,East,PROD-133,Furniture,Bookcases,Bookcases item 5,86.57,5,0.2,10.49
+43,ORD-10016,01/11/2024,01/17/2024,Second Class,CUST-102,Customer 21,Consumer,United States,Los Angeles,California,90561,West,PROD-176,Office Supplies,Envelopes,Envelopes item 6,35.58,1,0.3,0.55
+44,ORD-10033,07/29/2024,08/04/2024,First Class,CUST-136,Customer 18,Home Office,United States,Philadelphia,Pennsylvania,82322,East,PROD-164,Technology,Copiers,Copiers item 9,667.54,7,0.3,-72.03
+45,ORD-10110,02/26/2023,03/01/2023,Standard Class,CUST-110,Customer 06,Consumer,United States,Boston,Massachusetts,36566,East,PROD-125,Furniture,Tables,Tables item 4,523.29,6,0.05,70.37
+46,ORD-10021,03/17/2024,03/18/2024,First Class,CUST-121,Customer 32,Corporate,United States,Dallas,Texas,79611,Central,PROD-100,Furniture,Bookcases,Bookcases item 9,889.56,7,0.2,34.98
+47,ORD-10023,04/29/2023,05/05/2023,First Class,CUST-138,Customer 13,Corporate,United States,Atlanta,Georgia,25623,South,PROD-134,Technology,Phones,Phones item 11,47.13,4,0.1,5.64
+48,ORD-10114,06/30/2024,07/01/2024,Standard Class,CUST-140,Customer 31,Corporate,United States,Philadelphia,Pennsylvania,92479,East,PROD-170,Furniture,Tables,Tables item 7,870.46,7,0.4,-142.8
+49,ORD-10021,09/05/2023,09/07/2023,First Class,CUST-125,Customer 41,Home Office,United States,Omaha,Nebraska,54468,Central,PROD-128,Furniture,Chairs,Chairs item 5,286.15,1,0.2,25.64
+50,ORD-10051,11/24/2024,11/27/2024,First Class,CUST-110,Customer 14,Consumer,United States,Philadelphia,Pennsylvania,91007,East,PROD-133,Technology,Copiers,Copiers item 10,798.15,7,0.1,88.61
+51,ORD-10024,07/18/2024,07/24/2024,Standard Class,CUST-106,Customer 08,Home Office,United States,Chicago,Illinois,65350,Central,PROD-140,Furniture,Tables,Tables item 12,720.41,1,0.2,116.37
+52,ORD-10074,12/21/2023,12/27/2023,First Class,CUST-105,Customer 17,Corporate,United States,New York City,New York,20335,East,PROD-153,Technology,Accessories,Accessories item 6,244.25,6,0.05,25.08
+53,ORD-10085,12/21/2024,12/22/2024,Standard Class,CUST-136,Customer 05,Corporate,United States,New York City,New York,79112,East,PROD-152,Office Supplies,Paper,Paper item 12,441.46,3,0.0,40.22
+54,ORD-10116,01/27/2023,02/02/2023,Second Class,CUST-114,Customer 09,Home Office,United States,Dallas,Texas,20353,Central,PROD-121,Office Supplies,Binders,Binders item 11,405.4,1,0.3,34.75
+55,ORD-10116,02/23/2023,02/28/2023,Standard Class,CUST-136,Customer 06,Corporate,United States,Miami,Florida,94963,South,PROD-126,Technology,Accessories,Accessories item 6,312.13,1,0.05,14.92
+56,ORD-10093,06/28/2023,07/04/2023,Second Class,CUST-114,Customer 21,Consumer,United States,Seattle,Washington,46605,West,PROD-173,Technology,Accessories,Accessories item 8,769.77,4,0.2,72.58
+57,ORD-10099,05/18/2023,05/19/2023,First Class,CUST-125,Customer 11,Home Office,United States,New York City,New York,95648,East,PROD-178,Office Supplies,Paper,Paper item 11,397.3,5,0.2,2.55
+58,ORD-10101,07/23/2023,07/25/2023,Standard Class,CUST-110,Customer 24,Corporate,United States,Chicago,Illinois,17353,Central,PROD-139,Technology,Phones,Phones item 7,633.9,5,0.3,-65.91
+59,ORD-10065,05/19/2024,05/20/2024,Standard Class,CUST-137,Customer 37,Home Office,United States,Phoenix,Arizona,46751,West,PROD-145,Office Supplies,Labels,Labels item 11,288.5,8,0.05,41.71
+60,ORD-10036,09/08/2023,09/13/2023,First Class,CUST-124,Customer 12,Home Office,United States,Miami,Florida,50185,South,PROD-107,Furniture,Bookcases,Bookcases item 2,727.98,8,0.0,128.04
+61,ORD-10069,09/23/2023,09/29/2023,Standard Class,CUST-119,Customer 28,Corporate,United States,Boston,Massachusetts,90097,East,PROD-138,Furniture,Furnishings,Furnishings item 2,300.82,3,0.1,25.11
+62,ORD-10112,08/21/2023,08/22/2023,Standard Class,CUST-121,Customer 11,Home Office,United States,Omaha,Nebraska,29823,Central,PROD-143,Technology,Accessories,Accessories item 9,357.23,5,0.1,17.11
+63,ORD-10107,10/11/2024,10/15/2024,Standard Class,CUST-131,Customer 30,Home Office,United States,Charlotte,North Carolina,46116,South,PROD-151,Technology,Accessories,Accessories item 8,894.66,3,0.2,43.67
+64,ORD-10068,02/23/2023,02/28/2023,Standard Class,CUST-105,Customer 27,Corporate,United States,Miami,Florida,63250,South,PROD-134,Office Supplies,Storage,Storage item 9,823.51,4,0.05,66.94
+65,ORD-10053,07/30/2023,08/01/2023,First Class,CUST-120,Customer 13,Consumer,United States,Dallas,Texas,99529,Central,PROD-158,Furniture,Furnishings,Furnishings item 4,497.03,1,0.05,79.72
+66,ORD-10111,06/27/2023,06/30/2023,Standard Class,CUST-129,Customer 43,Consumer,United States,Charlotte,North Carolina,32509,South,PROD-173,Office Supplies,Envelopes,Envelopes item 7,769.93,8,0.4,-72.56
+67,ORD-10106,05/22/2024,05/26/2024,Second Class,CUST-101,Customer 27,Consumer,United States,Chicago,Illinois,47469,Central,PROD-129,Furniture,Tables,Tables item 11,772.74,6,0.05,31.29
+68,ORD-10084,08/11/2024,08/17/2024,Standard Class,CUST-132,Customer 27,Corporate,United States,New York City,New York,13100,East,PROD-180,Technology,Copiers,Copiers item 5,605.25,2,0.1,99.69
+69,ORD-10063,04/18/2024,04/22/2024,Standard Class,CUST-142,Customer 05,Consumer,United States,Chicago,Illinois,16586,Central,PROD-110,Furniture,Chairs,Chairs item 2,90.35,6,0.2,0.79
+70,ORD-10033,09/29/2023,10/03/2023,Standard Class,CUST-142,Customer 23,Corporate,United States,Miami,Florida,66520,South,PROD-153,Furniture,Furnishings,Furnishings item 5,434.05,6,0.3,-5.0
+71,ORD-10001,06/19/2024,06/23/2024,Second Class,CUST-100,Customer 43,Consumer,United States,Los Angeles,California,77956,West,PROD-128,Technology,Copiers,Copiers item 4,466.12,6,0.0,49.97
+72,ORD-10041,08/27/2024,08/31/2024,Standard Class,CUST-118,Customer 02,Home Office,United States,Omaha,Nebraska,80867,Central,PROD-106,Technology,Copiers,Copiers item 7,702.33,8,0.05,93.01
+73,ORD-10026,08/13/2023,08/16/2023,First Class,CUST-115,Customer 13,Corporate,United States,Dallas,Texas,88685,Central,PROD-167,Office Supplies,Envelopes,Envelopes item 7,371.65,5,0.1,18.3
+74,ORD-10066,02/09/2024,02/15/2024,First Class,CUST-107,Customer 26,Consumer,United States,Phoenix,Arizona,58479,West,PROD-156,Technology,Accessories,Accessories item 10,840.14,3,0.2,44.44
+75,ORD-10060,01/20/2023,01/25/2023,Second Class,CUST-143,Customer 31,Home Office,United States,Los Angeles,California,18440,West,PROD-138,Technology,Copiers,Copiers item 4,387.44,4,0.2,18.5
+76,ORD-10037,01/11/2024,01/12/2024,Standard Class,CUST-143,Customer 40,Corporate,United States,Seattle,Washington,12066,West,PROD-136,Furniture,Tables,Tables item 4,651.1,4,0.3,18.27
+77,ORD-10110,04/22/2023,04/26/2023,Second Class,CUST-127,Customer 11,Corporate,United States,Los Angeles,California,48214,West,PROD-105,Furniture,Bookcases,Bookcases item 2,78.55,4,0.2,14.03
+78,ORD-10002,04/02/2024,04/03/2024,Standard Class,CUST-126,Customer 40,Home Office,United States,Los Angeles,California,97125,West,PROD-178,Furniture,Bookcases,Bookcases item 11,178.63,2,0.2,6.96
+79,ORD-10104,10/10/2024,10/11/2024,Second Class,CUST-133,Customer 35,Home Office,United States,Omaha,Nebraska,37583,Central,PROD-150,Office Supplies,Paper,Paper item 2,166.65,8,0.4,-12.31
+80,ORD-10004,04/14/2023,04/20/2023,Standard Class,CUST-131,Customer 34,Corporate,United States,New York City,New York,19948,East,PROD-120,Office Supplies,Paper,Paper item 5,586.12,6,0.1,33.09
+81,ORD-10013,07/31/2024,08/02/2024,Standard Class,CUST-129,Customer 45,Consumer,United States,Miami,Florida,46094,South,PROD-176,Furniture,Bookcases,Bookcases item 8,726.69,3,0.3,34.94
+82,ORD-10052,08/29/2023,09/04/2023,First Class,CUST-127,Customer 43,Home Office,United States,Seattle,Washington,34945,West,PROD-171,Furniture,Furnishings,Furnishings item 4,297.18,6,0.3,-3.31
+83,ORD-10075,10/17/2024,10/22/2024,Standard Class,CUST-106,Customer 24,Home Office,United States,Los Angeles,California,82181,West,PROD-165,Office Supplies,Envelopes,Envelopes item 8,790.42,7,0.2,113.08
+84,ORD-10039,12/16/2023,12/17/2023,First Class,CUST-125,Customer 05,Home Office,United States,New York City,New York,32325,East,PROD-132,Furniture,Furnishings,Furnishings item 6,402.9,4,0.2,41.79
+85,ORD-10003,03/06/2024,03/11/2024,Standard Class,CUST-109,Customer 28,Consumer,United States,Philadelphia,Pennsylvania,26931,East,PROD-179,Office Supplies,Envelopes,Envelopes item 3,294.9,1,0.4,-35.8
+86,ORD-10076,11/17/2024,11/21/2024,First Class,CUST-111,Customer 41,Home Office,United States,Atlanta,Georgia,30008,South,PROD-101,Office Supplies,Storage,Storage item 5,766.48,8,0.1,130.25
+87,ORD-10014,12/29/2023,01/01/2024,First Class,CUST-140,Customer 06,Consumer,United States,Philadelphia,Pennsylvania,67732,East,PROD-164,Office Supplies,Envelopes,Envelopes item 12,762.34,2,0.0,67.86
+88,ORD-10097,01/03/2024,01/06/2024,Standard Class,CUST-123,Customer 03,Home Office,United States,Miami,Florida,27139,South,PROD-147,Technology,Accessories,Accessories item 11,427.62,8,0.4,-62.86
+89,ORD-10100,11/24/2023,11/26/2023,Standard Class,CUST-132,Customer 43,Corporate,United States,Chicago,Illinois,18614,Central,PROD-143,Furniture,Chairs,Chairs item 4,625.4,6,0.4,-74.56
+90,ORD-10105,11/05/2024,11/11/2024,First Class,CUST-119,Customer 32,Consumer,United States,Seattle,Washington,23950,West,PROD-178,Furniture,Tables,Tables item 1,881.17,4,0.2,95.42
+91,ORD-10094,12/09/2023,12/14/2023,First Class,CUST-113,Customer 23,Corporate,United States,Miami,Florida,12906,South,PROD-135,Furniture,Bookcases,Bookcases item 3,526.37,3,0.05,73.26
+92,ORD-10069,05/14/2024,05/18/2024,Second Class,CUST-101,Customer 05,Home Office,United States,Seattle,Washington,82027,West,PROD-137,Furniture,Chairs,Chairs item 4,473.43,4,0.0,95.1
+93,ORD-10001,07/16/2023,07/22/2023,Standard Class,CUST-141,Customer 20,Corporate,United States,Phoenix,Arizona,43197,West,PROD-162,Office Supplies,Art,Art item 10,689.23,7,0.3,-34.41
+94,ORD-10001,07/18/2024,07/20/2024,Second Class,CUST-105,Customer 44,Corporate,United States,Philadelphia,Pennsylvania,56856,East,PROD-180,Furniture,Bookcases,Bookcases item 7,473.23,1,0.2,-20.19
+95,ORD-10081,08/14/2024,08/15/2024,Standard Class,CUST-128,Customer 38,Home Office,United States,Boston,Massachusetts,25044,East,PROD-116,Technology,Phones,Phones item 8,695.4,4,0.1,30.25
+96,ORD-10016,01/09/2024,01/14/2024,Second Class,CUST-100,Customer 20,Consumer,United States,Omaha,Nebraska,71554,Central,PROD-126,Technology,Phones,Phones item 11,332.74,1,0.4,-37.03
+97,ORD-10055,07/23/2023,07/28/2023,Standard Class,CUST-107,Customer 36,Home Office,United States,Seattle,Washington,41350,West,PROD-120,Office Supplies,Art,Art item 7,492.78,3,0.0,95.1
+98,ORD-10106,08/12/2023,08/16/2023,Standard Class,CUST-143,Customer 30,Home Office,United States,Boston,Massachusetts,49165,East,PROD-116,Office Supplies,Envelopes,Envelopes item 1,787.78,5,0.4,35.64
+99,ORD-10107,01/02/2023,01/03/2023,Standard Class,CUST-101,Customer 16,Home Office,United States,Charlotte,North Carolina,41591,South,PROD-108,Technology,Accessories,Accessories item 1,763.7,1,0.05,53.2
+100,ORD-10097,01/25/2023,01/27/2023,First Class,CUST-112,Customer 35,Corporate,United States,Chicago,Illinois,84523,Central,PROD-104,Furniture,Bookcases,Bookcases item 5,705.6,4,0.05,70.83
+101,ORD-10103,05/09/2024,05/11/2024,First Class,CUST-128,Customer 05,Home Office,United States,Boston,Massachusetts,71582,East,PROD-101,Office Supplies,Art,Art item 8,660.3,7,0.1,109.05
+102,ORD-10067,12/07/2024,12/11/2024,Second Class,CUST-137,Customer 32,Home Office,United States,Chicago,Illinois,25796,Central,PROD-141,Office Supplies,Envelopes,Envelopes item 2,659.05,8,0.05,86.69
+103,ORD-10017,03/08/2023,03/09/2023,First Class,CUST-134,Customer 12,Corporate,United States,Atlanta,Georgia,59627,South,PROD-160,Office Supplies,Paper,Paper item 11,865.43,7,0.0,136.6
+104,ORD-10050,07/01/2023,07/07/2023,Second Class,CUST-105,Customer 43,Corporate,United States,Charlotte,North Carolina,33384,South,PROD-103,Furniture,Bookcases,Bookcases item 12,433.62,7,0.0,80.25
+105,ORD-10103,07/22/2024,07/24/2024,Standard Class,CUST-113,Customer 18,Corporate,United States,Philadelphia,Pennsylvania,50038,East,PROD-143,Furniture,Furnishings,Furnishings item 3,398.57,1,0.05,93.42
+106,ORD-10046,08/13/2023,08/16/2023,Standard Class,CUST-138,Customer 20,Home Office,United States,Philadelphia,Pennsylvania,52854,East,PROD-138,Office Supplies,Envelopes,Envelopes item 7,117.41,5,0.4,2.78
+107,ORD-10118,01/17/2024,01/18/2024,Standard Class,CUST-144,Customer 09,Home Office,United States,New York City,New York,53040,East,PROD-173,Technology,Accessories,Accessories item 1,97.42,1,0.4,-7.99
+108,ORD-10000,07/16/2023,07/18/2023,First Class,CUST-139,Customer 16,Corporate,United States,Atlanta,Georgia,94746,South,PROD-165,Technology,Phones,Phones item 11,811.06,3,0.4,-172.21
+109,ORD-10118,05/08/2024,05/09/2024,First Class,CUST-114,Customer 04,Corporate,United States,Phoenix,Arizona,71820,West,PROD-167,Technology,Phones,Phones item 9,242.19,4,0.1,27.95
+110,ORD-10068,10/22/2024,10/26/2024,Second Class,CUST-134,Customer 21,Consumer,United States,Atlanta,Georgia,95885,South,PROD-107,Furniture,Chairs,Chairs item 12,594.45,5,0.4,-57.37
+111,ORD-10007,09/14/2024,09/19/2024,Second Class,CUST-100,Customer 07,Corporate,United States,Philadelphia,Pennsylvania,84959,East,PROD-122,Office Supplies,Binders,Binders item 4,102.39,3,0.4,-21.62
+112,ORD-10111,08/15/2023,08/19/2023,Second Class,CUST-103,Customer 03,Corporate,United States,Chicago,Illinois,93859,Central,PROD-116,Furniture,Tables,Tables item 5,681.35,6,0.0,61.78
+113,ORD-10023,01/16/2024,01/22/2024,Second Class,CUST-100,Customer 34,Home Office,United States,Omaha,Nebraska,44918,Central,PROD-166,Furniture,Tables,Tables item 2,206.54,3,0.1,20.13
+114,ORD-10023,12/06/2024,12/10/2024,First Class,CUST-140,Customer 42,Home Office,United States,Miami,Florida,24160,South,PROD-134,Technology,Copiers,Copiers item 5,544.09,2,0.3,-1.07
+115,ORD-10081,01/05/2023,01/07/2023,First Class,CUST-143,Customer 20,Consumer,United States,Phoenix,Arizona,13134,West,PROD-135,Technology,Accessories,Accessories item 8,577.4,3,0.05,70.6
+116,ORD-10091,06/08/2023,06/10/2023,Second Class,CUST-111,Customer 13,Consumer,United States,Boston,Massachusetts,80373,East,PROD-178,Furniture,Bookcases,Bookcases item 1,112.17,5,0.1,17.48
+117,ORD-10072,03/31/2023,04/02/2023,Second Class,CUST-113,Customer 04,Consumer,United States,Seattle,Washington,88111,West,PROD-124,Furniture,Furnishings,Furnishings item 12,782.58,8,0.1,154.47
+118,ORD-10057,09/26/2023,09/28/2023,Standard Class,CUST-107,Customer 45,Home Office,United States,Omaha,Nebraska,78974,Central,PROD-139,Furniture,Furnishings,Furnishings item 7,402.74,8,0.4,-59.72
+119,ORD-10047,06/23/2024,06/27/2024,First Class,CUST-120,Customer 44,Consumer,United States,Miami,Florida,77506,South,PROD-147,Furniture,Tables,Tables item 4,281.96,3,0.2,16.95
+120,ORD-10033,02/14/2024,02/16/2024,Second Class,CUST-122,Customer 01,Home Office,United States,Charlotte,North Carolina,94795,South,PROD-156,Office Supplies,Binders,Binders item 1,161.34,6,0.05,25.03
+121,ORD-10077,09/06/2023,09/07/2023,Standard Class,CUST-137,Customer 39,Consumer,United States,Philadelphia,Pennsylvania,57712,East,PROD-170,Technology,Copiers,Copiers item 11,496.31,8,0.05,32.98
+122,ORD-10019,03/05/2024,03/06/2024,First Class,CUST-121,Customer 26,Corporate,United States,Phoenix,Arizona,32011,West,PROD-160,Office Supplies,Art,Art item 10,244.36,4,0.3,10.32
+123,ORD-10055,06/27/2024,06/30/2024,Second Class,CUST-130,Customer 27,Home Office,United States,Philadelphia,Pennsylvania,71463,East,PROD-166,Technology,Machines,Machines item 5,240.89,4,0.3,-3.85
+124,ORD-10015,04/14/2023,04/20/2023,Standard Class,CUST-143,Customer 11,Corporate,United States,Phoenix,Arizona,80437,West,PROD-121,Technology,Machines,Machines item 11,734.24,2,0.0,99.5
+125,ORD-10056,10/06/2023,10/09/2023,Second Class,CUST-142,Customer 05,Home Office,United States,Los Angeles,California,80742,West,PROD-146,Technology,Accessories,Accessories item 5,71.8,6,0.3,0.31
+126,ORD-10027,02/26/2024,02/28/2024,Second Class,CUST-122,Customer 19,Home Office,United States,Charlotte,North Carolina,51386,South,PROD-133,Furniture,Tables,Tables item 11,448.79,5,0.0,97.96
+127,ORD-10087,10/03/2023,10/08/2023,First Class,CUST-136,Customer 13,Consumer,United States,Charlotte,North Carolina,15156,South,PROD-127,Technology,Phones,Phones item 6,531.85,8,0.3,-11.41
+128,ORD-10023,05/01/2023,05/02/2023,Standard Class,CUST-122,Customer 42,Consumer,United States,Seattle,Washington,53392,West,PROD-127,Technology,Accessories,Accessories item 4,301.92,1,0.0,64.22
+129,ORD-10097,05/03/2023,05/04/2023,Standard Class,CUST-117,Customer 21,Consumer,United States,New York City,New York,24169,East,PROD-100,Office Supplies,Art,Art item 2,662.54,8,0.2,81.1
+130,ORD-10001,06/11/2024,06/14/2024,First Class,CUST-137,Customer 13,Home Office,United States,Boston,Massachusetts,14589,East,PROD-166,Technology,Machines,Machines item 6,899.11,6,0.3,-50.7
+131,ORD-10045,04/11/2024,04/12/2024,Standard Class,CUST-143,Customer 16,Home Office,United States,Philadelphia,Pennsylvania,47986,East,PROD-134,Technology,Copiers,Copiers item 6,190.5,7,0.05,31.25
+132,ORD-10019,08/14/2023,08/15/2023,Standard Class,CUST-100,Customer 06,Consumer,United States,Seattle,Washington,66725,West,PROD-133,Furniture,Furnishings,Furnishings item 1,220.78,8,0.1,22.67
+133,ORD-10072,09/12/2023,09/15/2023,First Class,CUST-144,Customer 29,Home Office,United States,Los Angeles,California,71199,West,PROD-140,Furniture,Furnishings,Furnishings item 8,710.61,6,0.4,-118.14
+134,ORD-10047,02/27/2024,03/02/2024,Standard Class,CUST-130,Customer 30,Consumer,United States,New York City,New York,48591,East,PROD-152,Furniture,Bookcases,Bookcases item 5,175.7,8,0.3,-11.45
+135,ORD-10069,10/23/2023,10/28/2023,Second Class,CUST-119,Customer 02,Home Office,United States,Boston,Massachusetts,57916,East,PROD-154,Office Supplies,Art,Art item 7,267.13,8,0.05,31.33
+136,ORD-10036,03/30/2024,04/01/2024,First Class,CUST-104,Customer 34,Corporate,United States,New York City,New York,31118,East,PROD-173,Office Supplies,Art,Art item 2,460.59,7,0.1,34.31
+137,ORD-10092,08/04/2023,08/08/2023,Standard Class,CUST-121,Customer 33,Corporate,United States,Philadelphia,Pennsylvania,59202,East,PROD-168,Office Supplies,Labels,Labels item 7,740.65,5,0.2,87.15
+138,ORD-10010,02/17/2023,02/18/2023,Standard Class,CUST-145,Customer 26,Consumer,United States,Miami,Florida,20143,South,PROD-143,Furniture,Tables,Tables item 12,730.11,7,0.3,-36.03
+139,ORD-10057,11/11/2024,11/17/2024,First Class,CUST-120,Customer 15,Corporate,United States,Charlotte,North Carolina,92053,South,PROD-144,Office Supplies,Storage,Storage item 9,249.81,2,0.3,-4.6
+140,ORD-10014,01/11/2023,01/14/2023,Standard Class,CUST-102,Customer 35,Consumer,United States,Los Angeles,California,69621,West,PROD-102,Technology,Copiers,Copiers item 12,436.1,4,0.05,89.03
+141,ORD-10082,03/27/2024,03/29/2024,First Class,CUST-143,Customer 39,Home Office,United States,Seattle,Washington,10801,West,PROD-143,Technology,Phones,Phones item 11,408.85,6,0.4,-36.32
+142,ORD-10079,02/08/2023,02/13/2023,Standard Class,CUST-118,Customer 15,Corporate,United States,Phoenix,Arizona,53520,West,PROD-123,Furniture,Tables,Tables item 12,557.62,4,0.3,38.44
+143,ORD-10028,09/22/2024,09/27/2024,First Class,CUST-118,Customer 39,Corporate,United States,Boston,Massachusetts,68186,East,PROD-116,Furniture,Chairs,Chairs item 8,892.69,2,0.1,30.39
+144,ORD-10006,01/25/2023,01/30/2023,Standard Class,CUST-140,Customer 36,Consumer,United States,Boston,Massachusetts,54408,East,PROD-107,Technology,Copiers,Copiers item 1,683.86,6,0.4,16.98
+145,ORD-10042,02/10/2024,02/15/2024,Second Class,CUST-129,Customer 45,Corporate,United States,Philadelphia,Pennsylvania,54666,East,PROD-180,Furniture,Bookcases,Bookcases item 4,830.96,3,0.2,44.8
+146,ORD-10013,09/03/2023,09/09/2023,First Class,CUST-143,Customer 12,Consumer,United States,Omaha,Nebraska,72956,Central,PROD-169,Office Supplies,Binders,Binders item 5,656.27,5,0.2,24.82
+147,ORD-10116,11/30/2023,12/04/2023,First Class,CUST-131,Customer 05,Corporate,United States,New York City,New York,54363,East,PROD-146,Office Supplies,Paper,Paper item 8,817.72,1,0.4,-118.65
+148,ORD-10120,10/07/2024,10/13/2024,Standard Class,CUST-117,Customer 39,Corporate,United States,Philadelphia,Pennsylvania,88207,East,PROD-160,Office Supplies,Envelopes,Envelopes item 5,228.13,1,0.0,21.68
+149,ORD-10101,04/08/2024,04/14/2024,First Class,CUST-126,Customer 36,Corporate,United States,New York City,New York,90776,East,PROD-132,Technology,Copiers,Copiers item 10,461.24,3,0.1,17.52
+150,ORD-10010,12/11/2024,12/17/2024,Second Class,CUST-126,Customer 23,Corporate,United States,New York City,New York,26852,East,PROD-128,Furniture,Furnishings,Furnishings item 10,87.33,7,0.1,0.58
